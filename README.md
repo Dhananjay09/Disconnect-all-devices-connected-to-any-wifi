@@ -21,3 +21,5 @@ Steps:
       6: After few seconds all the devices connected to it will be disconnected.
       
       7: When you have to stop then press again clt+c.
+Requirments:
+  1: Tested on Parrot and kali linux.
