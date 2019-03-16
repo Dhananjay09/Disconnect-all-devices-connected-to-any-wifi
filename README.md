@@ -16,6 +16,8 @@ Steps:
       
       4: Enter the channel number from given lists of that hotspot. press Enter.
       
-      5: After few seconds all the devices connected to it will be disconnected.
+      5: After few second list of all connected devices will come then again press clt+c.
       
+      6: After few seconds all the devices connected to it will be disconnected.
       
+      7: When you have to stop then press again clt+c.
