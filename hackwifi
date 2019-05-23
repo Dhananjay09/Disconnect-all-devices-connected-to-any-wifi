@@ -1,2 +1,2 @@
-python2 hacking_wifi.py
+python2 /bin/hacking_wifi.py
 sudo airmon-ng stop wlan0mon
